@@ -76,4 +76,4 @@ simple_red , simple_blue , loc_red , loc_blue , start , end , location
 | dragstart       | 拖拽覆盖物开始事件的回调函数                                                       | `((e: Event) => void)`      |
 | dragging        | 覆盖物拖拽中事件的回调函数                                                         | `((e: Event) => void)`      |
 | dragend         | 拖拽覆盖物结束事件的回调函数                                                       | `((e: Event) => void)`      |
-| rightclick      | 鼠标右键单击事件的回调函数                                                         | `((e: Event) => void)`      |
+| rightclick      | 鼠标右键单击事件的回调函数(没有用)                                                         | `((e: Event) => void)`      |
